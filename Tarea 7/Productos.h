@@ -1,2 +1,0 @@
-
-void productos(int opcion);
